@@ -1,0 +1,12 @@
+tensorflow
+numpy
+dvc
+notebook
+ensure
+Flask
+Pillow
+pyYAML
+pathlib
+dvc
+
+-e .
